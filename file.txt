@@ -1,2 +1,0 @@
-add x4, x5, x6
-add x6, x4, x7
